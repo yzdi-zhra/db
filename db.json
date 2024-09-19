@@ -1,0 +1,120 @@
+{
+  "movies": [
+    { "id":"1", "src": "https://static.cdn.asset.filimo.com/flmt/mov_148573_183474.jpg?width=165&quality=85&secret=cFeTI3rkLfBXm4mCDumRrQ" },
+    { "id":"2", "src": "https://static.cdn.asset.filimo.com/flmt/mov_146824_164351.jpg?width=165&quality=85&secret=2n5NbxP2FUcyo6DfsoRo5A" }
+  ],
+  "series": [
+    { "id":"1", "src": "https://static.cdn.asset.filimo.com/flmt/mov_149913_186800.jpg?width=165&quality=85&secret=1n5aRP2vHfSPFPAmVsihSA" },
+    { "id":"2", "src": "https://static.cdn.asset.filimo.com/flmt/mov_149708_186389.jpg?width=165&quality=85&secret=vIdKR3lExuAGCjeU2_dIYg" },
+    { "id":"3", "src": "https://static.cdn.asset.filimo.com/flmt/mov_134994_58034.jpg?width=165&quality=85&secret=cO4SjIqG7ct8jXGKo6pcAg" },
+    { "id":"4", "src": "https://static.cdn.asset.filimo.com/flmt/mov_149906_186741.jpg?width=165&quality=85&secret=3niIaP4us4UdBolnEscV_Q" },
+    { "id":"5", "src": "https://static.cdn.asset.filimo.com/flmt/mov_149897_186654.jpg?width=165&quality=85&secret=Rsm0cPbA432hbHSrXdrcgg" },
+    { "id":"6", "src": "https://static.cdn.asset.filimo.com/flmt/mov_149897_186654.jpg?width=165&quality=85&secret=Rsm0cPbA432hbHSrXdrcgg" }
+  ],
+  "seriesInfo": [
+    {
+      "id":"1",
+      "title": "جوکر 2",
+      "director": "کارگردان : احسان علیخانی",
+      "geners": [{ "gener": "کمدی" }, { "gener": "ریلیتی شو" }],
+      "text": "مسعود روشن پژوه وارد محله جوکر 2 شده تا با مسابقات خنده دارش بتونه کارت زرد یا حتی قرمز برای شرکت کنندگان این فصل داشته باشه. شدت هیجان و خنده توی این قسمت جوکر 2 اونقدر بالا رفته که تاب و تحمل شرکت کنندگان رو ازشون میگیره و نفسشون بند میاد! آیا این قسمت تلفات جانی به بار میاره؟",
+      "logo": "./public/image/filimoPopular/logo/series/logo-serie-1.png",
+      "episodes": [
+        {
+          "img": "./public/image/filimoPopular/episodes/joker-1.png",
+          "title": "فصل 1 قسمت 1"
+        },
+        {
+          "img": "./public/image/filimoPopular/episodes/joker-2.png",
+          "title": "فصل 1 قصسمت 2"
+        },
+        {
+          "img": "./public/image/filimoPopular/episodes/joker-3.png",
+          "title": "فصل 1 قسمت 3"
+        },
+        {
+          "img": "./public/image/filimoPopular/episodes/joker-3.png",
+          "title": "فصل 1 قسمت 4"
+        },
+        {
+          "img": "./public/image/filimoPopular/episodes/joker-1.png",
+          "title": "فصل 1 قسمت 5"
+        },
+        {
+          "img": "./public/image/filimoPopular/episodes/joker-1.png",
+          "title": "فصل 1 قسمت 6"
+        },
+        {
+          "img": "./public/image/filimoPopular/episodes/joker-1.png",
+          "title": "فصل 1 قسمت 7"
+        }
+      ],
+      "bg":"./public/image/filimoPopular/bg/bg-joker.png"
+    },
+    {
+      "id":"2",
+      "title": "زخم کاری:انتقام",
+      "director": "کارگردان : محمد حسین مهدویان",
+      "geners": [{ "gener": "درام" }, { "gener": "خانوادگی" }],
+      "text": "مالک آخرین برگ بازیش را رو می کند. او فاتحانه نشسته بر سریر خون، پا در مسیری می گذارد که هنوز بوی خون از آن به مشام می رسد.",
+      "logo": "./public/image/filimoPopular/logo/series/logo-serie-2.png",
+      "episodes": [
+        {
+          "img": "./public/image/filimoPopular/episodes/mortal-wound-1.png",
+          "title": "فصل 2 قسمت 1"
+        },
+        {
+          "img": "./public/image/filimoPopular/episodes/mortal-wound-1.png",
+          "title": "فصل 2 قسمت 2"
+        },
+        {
+          "img": "./public/image/filimoPopular/episodes/mortal-wound-1.png",
+          "title": "فصل 2 قسمت 3"
+        },
+        {
+          "img": "./public/image/filimoPopular/episodes/mortal-wound-1.png",
+          "title": "فصل 2 قسمت 4"
+        },
+        {
+          "img": "./public/image/filimoPopular/episodes/mortal-wound-1.png",
+          "title": "فصل 2 قسمت 5"
+        },
+        {
+          "img": "./public/image/filimoPopular/episodes/mortal-wound-1.png",
+          "title": "فصل 2 قسمت 6"
+        },
+        {
+          "img": "./public/image/filimoPopular/episodes/mortal-wound-1.png",
+          "title": "فصل 2 قسمت 7"
+        },
+        {
+          "img": "./public/image/filimoPopular/episodes/mortal-wound-1.png",
+          "title": "فصل 2 قسمت 8"
+        }
+      ],
+      "bg":"./public/image/filimoPopular/bg/bg_mortal-wound.png"
+    }
+  ],
+  "moviesInfo":[
+    {
+      "id":"1",
+      "title":"بی بدن",
+      "director":"مرتضی علیزاده",
+      "geners":[{"gener":"جنایی"},{"gener":"درام"}],
+      "text":"سارا مقدم پس از گم شدن دخترش ارغوان، به دادسرا مراجعه می کند. موبایل ارغوان ردیابی می شود تا آخرین فردی که او را دیده مش",
+      "logo":"./public/image/filimoPopular/logo/films/bibadan.png",
+      "info":"بالای ۱۵ سال - یک ساعت و ۵۱ دقیقه - محصول ایران - ۱۴۰۲ - کیفیت HD",
+      "bg":"./public/image/filimoPopular/bg/bg-bibadan.png"
+    },
+    {
+      "id":"2",
+      "title":"هاوایی",
+      "director":"بهمن گودرزی",
+      "geners":[{"gener":"کمدی"},{"gener":"ماجراجویی"}],
+      "text":"هاوایی داستان ورزشکاری است که برای پیشرفت در رشته ورزشی خود قصد دارد پناهندگی کشوری خارجی را بگیرد که در این حین ماج",
+      "logo":"./public/image/filimoPopular/logo/films/havayi.png",
+      "info":"بالای ۱۵ سال - یک ساعت و ۲۲ دقیقه - محصول ایران - ۱۳۹۹ - کیفیت HD",
+      "bg":"./public/image/filimoPopular/bg/bg-havayi.png"
+    }
+  ]
+}
